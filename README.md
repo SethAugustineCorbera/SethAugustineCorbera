@@ -1,5 +1,6 @@
 # Seth Augustine Corbera
 **2nd Year BSIT Student** · Davao Del Norte State College
+
 **Aspiring Full Stack Developer**
 **Portfolio:** https://sethaugustinecorbera.github.io/SethCorbera-Portfolio/
 
