@@ -1,11 +1,10 @@
 # Seth Augustine Corbera
-
-**2nd Year BSIT Student** · Davao Del Norte State College  
+**2nd Year BSIT Student** · Davao Del Norte State College
 **Aspiring Full Stack Developer**
-** Portfolio: ** https://sethaugustinecorbera.github.io/SethCorbera-Portfolio/ 
----
-
+**Portfolio:** https://sethaugustinecorbera.github.io/SethCorbera-Portfolio/
 ## About Me
+
+---
 
 I am a 2nd-year Bachelor of Science in Information Technology student at Davao Del Norte State University with a strong passion for learning and exploring the endless possibilities that technology offers.
 
